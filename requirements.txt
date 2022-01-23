@@ -1,0 +1,5 @@
+tidevice
+uiautomator2
+adbutils
+facebook-wda
+flask
